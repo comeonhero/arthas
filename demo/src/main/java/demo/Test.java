@@ -18,4 +18,8 @@ public class Test {
         System.out.println("测试==========7");
     }
 
+    class Demo {
+        private Integer a;
+    }
+
 }
