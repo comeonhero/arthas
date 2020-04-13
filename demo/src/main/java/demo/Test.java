@@ -20,6 +20,7 @@ public class Test {
 
     class Demo {
         private Integer a;
+        private Integer b;
     }
 
 }
